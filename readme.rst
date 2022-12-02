@@ -1,3 +1,5 @@
+### CAGR Calculator developed by Code Igniter & JavaScript
+
 ###################
 What is CodeIgniter
 ###################
